@@ -1,0 +1,122 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+	<title>OER Development</title>
+	<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>814e274e-2e9a-4689-8f67-bb835507d880</md:uuid>
+</metadata>
+	<content>
+		<section id="id-0600859199639">
+			<title>Lesson Components</title>
+			<list list-type="bulleted" id="id4267185">
+				<item>Fast Fact </item>
+				<item>Skill/Objective </item>
+				<item>Success Indicators </item>
+				<item>Introduction </item>
+				<item>Activity </item>
+				<item>Review questions </item>
+				<item>Resources </item>
+			</list>
+		</section>
+		<section id="id-224134118213">
+			<title>Fast Fact</title>
+			<para id="id10934924">"<link url="http://en.wikipedia.org/wiki/Universal_design">Universal design</link> is the design of products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design. The intent of universal design is to simplify life for everyone by making products, communications, and the built environment more usable by as many people as possible at little or no extra cost. Universal design benefits people of all ages and abilities."  - <link url="http://www.design.ncsu.edu:8120/cud/about_ud/about_ud.htm">Center for Universal Design</link></para>
+		</section>
+		<section id="id-23046565303">
+			<title>Skills/Objectives</title>
+			<para id="id9170224">Learners will be able to:</para>
+			<list list-type="enumerated" id="id5658000">
+				<item>Use tools and resources to develop OER.</item>
+				<item>Identify the requirements for OER in order to comply with ADA Section 508 requirements.</item>
+			</list>
+		</section>
+		<section id="id-279764779535">
+			<title>Success Indicators</title>
+			<list list-type="enumerated" id="id6965581">
+				<item>OER developed by the learner added to learner's own online collection or portfolio. </item>
+			</list>
+		</section>
+		<section id="id-811198048122">
+			<title>Background</title>
+			<para id="id8941566">As noted by <link url="http://weblogs.annenberg.edu/diy/2006/10/todd_richmond_on_open_educatio.html">Todd Richmond</link> at a DIY Media seminar at the Annenberg Center in 2006, the <link url="http://en.wikipedia.org/wiki/Commons-based_peer_production">commons-based peer production</link> or do-it-yourself shared media production aspect of OER may well be a catalyst for innovation once OER goes <link url="http://www.nostatic.com/hewlett/">viral</link>.  Several resources are available on the Internet that provide teachers with tools to share and collaborate on the development of OER for use in instruction. Some of these are: Rice Connexions, Open Learning Content Observatory Services (OLCOS), WikiEducator, and WikiBooks. </para><para id="element-51"><title>Accessibility</title>
+
+Certain accessibiilty requirements must be addressed when developing OER for electronic dissemination to students. By law, <link url="http://www.section508.gov/">ADA Section 508</link>, learning materials, including interfaces, images, sounds, multimedia elements, and all other forms of information, must be made available for used by anyone, regardless of disability. Detailed information about accessibility guidelines are available at <link url="http://www.w3.org/WAI/Resources">Web Accessibility Initiative (WAI)</link> and the <link url="http://www.usdoj.gov/crt/ada/adahom1.htm">Americans with Disabilities Act (ADA)</link>.  <link url="http://aprompt.snow.utoronto.ca/">A-Prompt</link> is an accessibility evaluation and repair tool from the University of Toronto in cooperation with the Trace Center and CAST.  A demonstration version is available for download. A-Prompt lists what it considers to be errors and offers a chance to correct each one.  <link url="http://www.webaim.org/">Utah State University, Web Accessibility in Mind (Webaim)</link> offers various "How To" information and support on creating accessible web sites.  Web authors can find a Section checklist, sample HTML markup and various articles and courses on accessible web design.  <link url="http://cita.rehab.uiuc.edu/software/office/">The Accessible Web Publishing Wizard</link> simplifies the task of converting PowerPoint presentations, Word documents, and (in the future) Excel spreadsheets to accessible HTML through an easy-to-use user interface and automation of many of the details of conversion. </para><section id="id-740492987819">
+				<title>Rice Connexions</title>
+				<para id="id5641094">Take a <link url="http://cnx.org/aboutus/tour/">tour of Connexions</link>.  Connexions was started at Rice University in 1999 to promote innovative ways to write, edit, publish, and use textbooks and other learning materials. Connexion participants are encouraged to:  </para>
+				<list list-type="bulleted" id="id5786415">
+					<item>Create educational materials and <link url="http://cnx.org/sitelicense">contribute them to the repository</link></item>
+					<item>Rip or copy the material and customize it </item>
+					<item>Mix the material together into new books and courses </item>
+					<item>Burn or create finished products such as e-learning web courses, CDroms, and even printed books </item>
+				</list>
+				<para id="id9966174">Open-access software tools and free-use materials are available via the <link url="http://cnx.org/creativecommons.org/licenses/by/2.0/">Creative Commons Attribution license</link> to facilitate collaboration and sharing. At Connexions, instructors can easily <link url="http://cnx.org/help/reference/collaboration">collaborate</link> on OER development in a variety of roles including coauthors, maintainers, workgroup members, suggesters, and users of derived copies. Instructors can update their OER course material and make it available for distribution quickly.</para><para id="element-533"><title>OWL Institute</title>
+In addition to providing users with connections to OER resources and communities, the <link url="http://owli.org/moodle/">OWL Institute Portal</link> to provides the opportunity for users to develop and share their own OER resources.  Contact the Owl Institute to receive "creator" or "teacher" access to courses and pages.
+</para><para id="element-157"><title>Digital Universe</title>The <link url="http://www.dufoundation.org">Digital Universe</link> seeks <link url="http://www.dufoundation.org/participation.php">stewards and voluntary consultants to assist</link> in their efforts "to organize the sum total of human knowledge and make it available to everyone."  </para><para id="element-282"><title>Le Mill</title><link url="http://lemill.net/content/lemill-tour">Tour Le Mill</link> to find a variety of open learning materials. Join the Learning Mill community to contribute and share your own learning materials. <link url="http://lemill.net/content/lemill-faq">FAQs</link> describe how to use the site.</para><para id="id12272847"><title>More Tools</title>
+
+OLCOS, the UK's <link url="http://www.olcos.org/english/home/">Open Learning Content Observatory Services</link> project contains a 30 minute tutorial about how to <link url="http://wikieducator.org/Open_Educational_Content/olcos/PRODUCE_&amp;_REMIX">produce OER</link>. This tutorial provides information and practical tasks in creating and modifying open content in open process as well as formats that can be published as open educational resources and tools, that support this process. 
+
+	<link url="http://www.wikieducator.org/">Wikieducator</link> promotes collaborative authoring and use of OER by providing tools using wiki technologies such as <link url="http://exelearning.org/">eXe</link>.  The Wikideducator <link url="http://www.wikieducator.org/How_to_contribute_and_use_content">Content Development Project</link> is an opportunity for educators to contribute and share their OER. 
+
+Wikibooks <link url="http://en.wikibooks.org/wiki/Main_Page">Wikibooks</link> is a <link url="http://en.wikipedia.org/wiki/Wikimedia">Wikimedia</link> project that started in 2003 with the goal to create a free collection of open-content textbooks that anyone can edit.  Since its inception, volunteers have written over 25,000 modules in a multitude of textbooks.  If you're an instructor planning on using Wikibooks for a class project, read <link url="http://en.wikibooks.org/wiki/Wikibooks:Guidelines_for_class_projects">guidelines for class projects</link>.
+
+Take a <link url="http://ia.usu.edu/takethetour.html">tour</link> of the <link url="http://ia.usu.edu/index.php">Instructional Architect</link>, a service of the National Science Digital Library, to find out how you can use it to find discipline-specific OER, organize and modify those resources into activities for your students, and make those new activities available to a variety of audiences. 
+
+<link url="http://ccmixter.org/">ccMixter</link> is a community music site provide opportunities to collaborate with others to re-purpose and mix existing learning materials licensed under Creative Commons.
+
+<link url="http://www.send2wiki.com/">Send2Wiki</link> is a new tool that lets users easily send a copy of a webpage to a wiki for remixing.
+
+<link url="http://www.wikia.com/">Wikia</link> are provides free wiki hosting designed expressly for promoting reuse of open content with the MediaWiki software.  All content on Wikia is perpetually licensed under the GNU Free Documentation License. </para></section>
+		</section>
+		<section id="id-296139382367">
+			<title>Activity</title>
+			<para id="id14113363"><emphasis>Experience</emphasis></para><para id="id6175006"><title>Creative Commons</title></para><para id="id6236691">Use <link url="http://search.creativecommons.org/">Creative Commons</link> to search for learning materials that you are free to use, remix, repurpose, etc.</para>
+			<para id="id13396341"><title>Wikieducator</title>
+Watch a short video about how to create an account at <link url="http://www.wikieducator.org/Wikieducator_tutorial/Creating_an_Account/Show_me_how">Wikieducator</link>.  Register for your account.  </para><para id="id3040774"><title>OER Commons</title></para><list list-type="enumerated" id="id6713836">
+				<item>Join OER Commons. Go to the <link url="http://www.oercommons.org/">OER Commons</link> website, then click on Join Now.</item>
+				<item>Click on Start My OER Portfolio.</item>
+				<item>Visit <link url="http://www.oercommons.org/matters/share">Shared Portfolios</link> posted to the OER Commons website to see to see how others search, use, and interact with OER. </item>
+			</list>
+			<para id="id9247267"><emphasis>Reflect</emphasis></para><para id="id14683024">Post to your course Discussion area in response to the following questions:</para>
+			<list list-type="enumerated" id="id14183158">
+				<item>What is the best way to promote development of OER among educators?</item>
+				<item>Who should be responsible for ensuring that OER are developed with ADA Section 508 accessibilty requirements in mind? </item>
+			</list>
+			<para id="id8507713"><emphasis>Apply</emphasis></para><para id="id8564286"><title>MERLOT </title></para><list list-type="enumerated" id="id3117747">
+				<item>View the <link url="http://www.cfkeep.org/html/gallery.php?id=96530011199908">Gallery of Sample MERLOT From the Author Snapshots</link></item>
+				<item>Go to the MERLOT website. </item>
+				<item>View a few Personal Collections posted by others. </item>
+				<item>Become a member of <link url="http://taste.merlot.org/evaluationcriteria.html">MERLOT</link>. </item>
+				<item>Create your own MERLOT <link url="http://taste.merlot.org/personalcollections.html">Personal Collection</link>. </item>
+			</list>
+			<para id="id2975841"><title>Wikibooks</title></para><list list-type="enumerated" id="id9260219">
+				<item>Create an account at <link url="http://en.wikibooks.org/wiki/Special:Userlogin">Wikibooks</link>.</item>
+				<item>Go to <link url="http://en.wikibooks.org/wiki/Wikibooks:Sandbox">Wikibooks Sandbox</link> to create a wiki. </item>
+			</list>
+			<para id="id14184959"><title>Connexions</title></para><para id="id3168255"><link url="http://cnx.org/help/ModuleInMinutes">Create a module</link> to share at <link url="http://cnx.org/">Connexions</link>. </para>
+			<list list-type="bulleted" id="id9599241">
+				<item>After registering, review the <link url="http://cnx.org/help/authorguide">New Author Guide</link>.</item>
+				<item>You can import a Word document or use the Connexions Edit-in-Place tool to create your module.</item>
+			</list>
+			<section id="id-76453013368">
+				<title>Review Questions</title>
+				<list list-type="enumerated" id="id9038528">
+					<item>What are some of the resources you can use to remix, repurpose OER, and develop your own OER?</item>
+					<item>What is necessary to ensure compliance with ADA Section 508 accessibility laws when developing OER for electronic dissemination to student? </item>
+				</list>
+			</section>
+			<section id="id-67578699098">
+				<title>Resources</title>
+				<list list-type="bulleted" id="id8841620"><item>
+						<link url="http://firstmonday.dk/issues/issue8_2/keats">Collaborative Development of Open Content</link>
+					</item>
+					<item>
+						<link url="http://blog.worldcampus.psu.edu/index.php/2007/04/04/wikieducator/">WikiEducator: Memoirs, Myths, Misrepresentations and the Magic</link>
+					</item>
+					<item>
+						<link url="http://oerwiki.iiep-unesco.org/index.php?title=OER_development_and_publishing_initiatives">OER Development and Publishing Initiatives</link>
+					</item>
+					<item>
+						<link url="http://www.eurodl.org/materials/contrib/2006/Bernd_Remmele.htm">Open Educational Resources – Anonymity vs. Specificity</link>
+					</item>
+					<item><link url="http://proceedings.informingscience.org/InSITE2007/IISITv4p535-544Kooh275.pdf">Advancing Sustainability of Open Educational Resources</link></item>
+				</list></section>
+		</section>
+	</content>
+</document>

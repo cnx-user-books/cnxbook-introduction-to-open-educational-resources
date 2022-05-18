@@ -1,0 +1,190 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+	<title>OER Introduction</title>
+	<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>b336581c-84f9-4a8c-870e-fd610fa86722</md:uuid>
+</metadata>
+	<content>
+		<section id="id-124027161423">
+			<title>Lesson:  Introduction</title>
+			<section id="id-017115210547">
+				<title>Lesson Components</title>
+				<list list-type="bulleted" id="id20543081">
+					<item>Fast Fact </item>
+					<item>Skills/Objectives </item>
+					<item>Success Indicators </item>
+					<item>Introduction </item>
+					<item>Activity </item>
+					<item>Review questions </item>
+					<item>Resources </item>
+				</list>
+			</section>
+			<section id="id-691761610463">
+				<title>Fast Fact</title>
+				<para id="id5308374">According to <link url="http://en.wikipedia.org/wiki/Open_educational_resources">Wikipedia</link>, OER is a term that was first adopted at UNESCO’s 2002 Forum on the Impact of Open Courseware for Higher Education in Developing Countries funded by the Hewlett Foundation. The definition OER is: </para>
+				<para id="id21161511">“digitized materials offered freely and openly for educators, students and self-learners to use and re-use for teaching, learning and research”</para>
+			</section>
+			<section id="id-0309855111338">
+				<title>Skills/Objectives</title>
+				<para id="id16625781">Learners will be able to:</para>
+				<list list-type="enumerated" id="id21093926">
+					<item>Define and describe OER. </item>
+					<item>List the advantages and disadvantages of OER use. </item>
+				</list>
+			</section>
+			<section id="id-499235774797">
+				<title>Success Indicators</title>
+				<list list-type="enumerated" id="id15730157">
+					<item>Learner memberships in OER community websites. </item>
+					<item>Learner-generated posting to open forum about OER issues. </item>
+				</list>
+			</section>
+		</section>
+		<section id="id-318738133521">
+			<title>Introduction</title>
+			<para id="id21271430"><title>Definition</title></para><para id="id3631926">Open Educational Resources (OER) are learning materials freely available in the public domain. A <link url="http://www.hewlett.org/Programs/Education/OER">definition of OER</link> from the The William and Flora Hewlett Foundation is: </para>
+			<para id="id13127389">"OER are teaching, learning and research resources that reside in the public domain or have been released under an intellectual property license that permits their free use or re-purposing by others. Open educational resources include full courses, course materials, modules, textbooks, streaming videos, tests, software, and any other tools, materials or techniques used to support access to knowledge." </para>
+			<para id="id17559190">The term OER has been used to refer to learning materials such as:</para>
+			<list list-type="bulleted" id="id4460946">
+				<item><link url="http://taste.merlot.org/repository.html">Learning objects</link> (quizzes, crossword puzzles, flashcards, animations, etc.) </item>
+				<item>
+					<link url="http://webcast.berkeley.edu/courses.php">Audio lectures</link>
+				</item>
+				<item>Audiovideo lectures </item>
+				<item>
+					<link url="http://commons.wikimedia.org/wiki/Category:Public_domain">Images</link>
+				</item>
+				<item>Sounds and music </item>
+				<item>Entire course content and <link url="http://opencontent.org/ocwfinder/">open courseware</link></item>
+				<item><link url="http://www.doaj.org/">Collections of journal articles</link> and institutional repositories </item>
+				<item>
+					<link url="http://www.gutenberg.org/">Textbooks</link>
+				</item>
+			</list>
+			<para id="id12313792"><title>Background</title></para><para id="id21061938"><link url="http://www.hewlett.org/Programs/Education/OER/Publications/oeroverview.htm">Hewlett Foundation</link> has taken a pioneering role in the development and use of OER with its support of many initiatives: "The Open Educational Resources movement began in 2001 when the Hewlett and the Andrew W. Mellon foundations jointly funded MIT OpenCourseWare (OCW), the first institution committed to making all of its course materials freely available. Since then, more than 60 additional institutions have launched OpenCourseWare Web sites." Just some of the many OER initatives supported by the Hewlett Foundation include:</para>
+			<list list-type="bulleted" id="id21265763">
+				<item>
+					<link url="http://ocw.mit.edu/">MIT Open Courseware</link>
+				</item>
+				<item>
+					<link url="http://sofia.fhda.edu/">Foothill-De Anza Community College District, Sharing Of Free Intellectual Assets (Sofia)</link>
+				</item>
+				<item>
+					<link url="http://ocw.jhsph.edu/">Johns Hopkins Bloomberg School of Public Health OpenCourseWare</link>
+				</item>
+				<item>
+					<link url="http://ocw.tufts.edu/">Tufts University OpenCourseWare</link>
+				</item>
+				<item>
+					<link url="http://ocw.usu.edu/">Utah State University OpenCourseWare</link>
+				</item>
+				<item>
+					<link url="http://cosl.usu.edu/projects/educommons">eduCommons</link>
+				</item>
+				<item>
+					<link url="http://www.cmu.edu/oli/">Carnegie Mellon University, Open Learning Initiative</link>
+				</item>
+				<item>
+					<link url="http://www.archive.org/details/ap_courses">Monterey Institute for Technology, Online Advanced Placement courses</link>
+				</item>
+				<item>
+					<link url="http://cnx.org/">Connexions</link>
+				</item>
+				<item>
+					<link url="http://www.archive.org/details/education">Internet Archive, Education</link>
+				</item>
+			</list>
+			<para id="id6141049">The Open Educational Resources movement is part of a global effort to make knowledge available to all.  The UNESCO's <link url="http://www.unesco.org/iiep/virtualuniversity/forumsfiche.php?queryforumspages_id=13">Virtual University Forum</link> provides an overview about definitions, initiatives, and community-building. Many repositories of open learning materials are listed at the Open <link url="http://cwr.unitar.edu.my/file.php/1/Index.htm">Educational Resources (OER) Index</link>.</para><list list-type="bulleted" id="id16161558"><title>Some benefits of OER include:</title>
+				<item>Fosters pedagogical innovation and relevance that avoids teaching from the textbook </item>
+				<item>Broadens use of alternatives to textbooks while maintaining instructional quality</item>
+				<item>Lowers costs of course materials for students</item>
+			</list><list list-type="bulleted" id="id21126642"><title>Some disadvantages of OER include:</title>
+				<item>Quality of available OER materials inconsistent </item>
+				<item>Materials may not meet Section 508 ADA accessibility or SCORM requirements and must be modify to bring into compliance </item>
+				<item>No common standard for review of OER accuracy and quality  </item>
+				<item>Need to check accuracy of content </item>
+				<item>Customization necessary to match departmental and/or college curriculum requirements </item>
+				<item>Technical requirements to access vary </item>
+				<item>Technological determinism created by the delivery tool </item>
+			</list><para id="element-163"><title>Case Study</title>
+
+In his May 2006 article <link url="http://www.grist.org/comments/soapbox/2006/05/02/pallant/index.html?source=mtv">"Bye the Book My year of teaching environmental science without a textbook"</link> Eric Pallant describes how he and co-professor Terry Bensel experimented with teaching their Introduction to Environmental Science course at Allegheny College with no textbook.  Instead they used a variety of open educational resources. Based on self-report, 41 of 46 students in their first-semester class read the same or more than they would have in a textbook. 
+
+The experiment proved successful enough that the entire academic department has embraced the concept of OER.  Faculty have distributed the work of collecting and banking websites for common use.
+</para><para id="id21319073"><title>Sustainability</title></para><para id="id13248633">Recently, several websites have become available that provide tools to support the identification, development, use, re-use, collaboration, and delivery of open learning content including searching and organization of content. Some websites, such as: <link url="http://www.oercommons.org/">OER Commons</link>, <link url="http://www.open.ac.uk/openlearn/home.php">Open Learn</link>, <link url="http://opencontent.org/blog/">Open Content</link>, <link url="http://www.wikieducator.org/Main_Page">WikiEducator</link>, <link url="http://cnx.org/">Connexions</link>, <link url="http://owli.org/home/">OWL Institute</link>, and <link url="http://www.oerderves.org/">OERderves</link>, are devoted to nurturing online learning communities, wikis, and blogs on various aspects of OER. Also, a new journal has gone online with a focus on OER: <link url="http://journal.eduforge.org/index.php/eduforge">Eduforge: The International Journal of Open Education Resources</link>. </para><section id="id-550950464564">
+				<title>Support for OER Use on Campus </title>
+				<para id="id20736127">In order to promote use of OER across campus, the challenges must be identified and addressed.  Results of a two-year study are presented in the article "<link url="http://www.firstmonday.org/issues/issue12_1/harley/index.html">Why Study Users: An Environmental Scan of Use and Users of Digital Resources in the Humanities and Social Sciences Undergraduate Education</link>."  Based on this study, barriers to use of digital resources including the lack of direct relevance to their preferred pedagogical approaches, and insufficient time and classroom resources. Challenges</para>
+				<list list-type="bulleted" id="id20405740">
+					<item>Resources for faculty support </item>
+					<item>Quality assurance of learning materials </item>
+					<item>Limited availability of fully vetted and comprehensive learning materials in some disciplines </item>
+					<item>Articulation and transfer issues </item>
+					<item>Printing and computer lab demands on campus by students </item>
+					<item>Identification of collaborative tools for development, use, and delivery of OER learning materials </item>
+					<item>Fostering use of the tools by faculty </item>
+					<item>Compliance with federal and state accessibility requirements </item>
+				</list>
+				<para id="id15822488">Resources Needed to Support Faculty Use and Development of OER</para>
+				<list list-type="bulleted" id="id20404798">
+					<item>Training </item>
+					<item>Technical assistance </item>
+					<item>Software </item>
+					<item>Hardware </item>
+					<item>Release time </item>
+				</list>
+			</section>
+		</section>
+		<section id="id-329995898276">
+			<title>Activity</title>
+			<para id="id20729030"><emphasis>Experience</emphasis></para><para id="id19896515">1. Get connected and become a part of the OER movement community: </para>
+			<list list-type="bulleted" id="id21018581"><item>Go to <link url="http://www.oercommons.org/">OER Commons</link>. <link url="http://www.oercommons.org/createMember">Join</link> and sign up to receive e-news. </item>
+				<item>Go to <link url="http://openlearn.open.ac.uk/index.php">Open Learn</link>. <link url="http://openlearn.open.ac.uk/index.php">Browse topics</link>, <link url="https://openlearn.open.ac.uk/login/signup.php">register</link> to become a part of the OER community, sign up for the newsletter, and <link url="http://www.open.ac.uk/openlearn/tell-your-friends.php">tell one friend about Open Learn</link>. </item>
+				<item>Go to Rice University’s <link url="http://cnx.org/">Connexions</link> to read the <link url="http://cnx.org/feedback">feedback</link> from users and then register.</item>
+			</list><para id="id16966310">2. Read at least one of the following about the OER movement:</para>
+			<list list-type="bulleted" id="id21106123">
+				<item><link url="http://www.downes.ca/cgi-bin/page.cgi?post=33401">Models for Sustainable Open Educational Resources</link> by <link url="http://www.downes.ca/cgi-bin/page.cgi?author=1">Stephen Downes</link>, January 30, 2006</item>
+				<item><link url="http://opencontent.org/blog/archives/247">The Current State of Open Educational Resources</link> by David Wiley, February 3, 2006</item>
+				<item><link url="http://www.ijournal.us/issue_14/ij_14_04_articleframe_Petrides_Jimes.html">Open Educational Resources: Toward a New Educational Paradigm</link> by Petrides &amp; Jimes, October 2006</item>
+			</list>
+			<para id="id19452770"><emphasis>Reflect</emphasis></para><para id="id9733904">1. Once you have <link url="http://www.oercommons.org/join_form">joined OER Commons</link>, make your own posting to the <link url="http://www.oercommons.org/matters/oer-matters-discussions">OER Matters Discussions</link> area. Click on OER Matters Teaching and Learning Forum to answer the following question:</para>
+			<para id="id13592451">"Opening up new avenues for teachers and learners to select and augment learning resources that meet one’s unique teaching and learning needs is the basic mission behind OER. But how do OER impact teaching and learning and what are the issues that we need to take into consideration?""</para>
+			<para id="id4734755"><emphasis>Apply</emphasis></para><para id="id20518394">Now that you have a general idea of what OER is all about, you should be ready to make a couple of decisions:</para>
+			<para id="id2844589">1. Do you want to learn more about OER? </para>
+			<list list-type="bulleted" id="id13898037">
+				<item>Decide which lessons you want to complete in this tutorial. </item>
+				<item>Decide the order in which you want to complete the lessons that makes the most sense for your learning needs. </item>
+			</list>
+			<para id="id11659590">2. Do you want to get the most out of this learning experience?</para>
+			<list list-type="bulleted" id="id20479504">
+				<item>Invite a colleague to join you in this tutorial. </item>
+				<item>Complete all the exercises listed in the Activity component of each Lesson.</item>
+			</list>
+			<section id="id-861701388119">
+				<title>Review Questions</title>
+				<list list-type="enumerated" id="id13432768">
+					<item>What are Open Educational Resources?</item>
+					<item>What are the advantages and disadvantages to using OER for teaching? </item>
+				</list>
+			</section>
+			<section id="id-649721257399">
+				<title>Resources</title>
+				<list list-type="bulleted" id="id20952678"><item>
+						<link url="http://www.downes.ca/cgi-bin/page.cgi?post=33401">Models for Sustainable Open Educational Resources</link>
+					</item>
+					<item>
+						<link url="http://opencontent.org/blog/archives/247#more-247">The Current State of Open Educational Resources</link>
+					</item>
+					<item>
+						<link url="http://oerderves.org/">A Review of the Open Educational Resources (OER) Movement</link>
+					</item>
+					<item>
+						<link url="http://www.ijournal.us/issue_14/ij_14_04_articleframe_Petrides_Jimes.html">Open Educational Resources: Toward a New Educational Paradigm</link>
+					</item>
+					<item>
+						<link url="http://www.oecd.org/dataoecd/5/47/37351085.pdf">Open Educational Resources: Opportunities and Challenges</link>
+					</item>
+					<item><link url="http://www.educause.edu/apps/eq/eqm05/eqm0533.asp">Open Educational Resources Serve the World</link></item>
+					<item><link url="http://www.oecd.org/dataoecd/35/7/38654317.pdf">Giving Knowledge for Free: The Emergence of Open Educational Resources</link>
+					</item>
+					<item><link url="http://www.dufoundation.org/downloads/Article_2006_01.pdf">The Future of Free Information</link></item></list></section>
+		</section>
+	</content>
+</document>

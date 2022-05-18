@@ -1,0 +1,147 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+	<title>OER Fair Use, Copyright, and TEACH Act</title>
+	<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>4daab2f3-7ccb-4bf3-8cfe-dd4342acf52a</md:uuid>
+</metadata>
+	<content>
+		<section id="id-61612299695">
+			<title>Lesson: Fair Use and Copyright</title>
+			<section id="id-679904784574">
+				<title>Lesson Components</title>
+				<list list-type="bulleted" id="id15443447">
+					<item>Fast Fact</item>
+					<item>Skill/Objective </item>
+					<item>Success Indicators </item>
+					<item>Introduction </item>
+					<item>Activity </item>
+					<item>Review questions </item>
+					<item>Resources</item>
+				</list>
+			</section>
+			<section id="id-361368838254">
+				<title>Fast Fact</title>
+				<para id="id14574613">The copyright notice © is no longer required for works published after March 1989. Absence of notice does not necessarily mean the work is within the public domain. </para>
+			</section>
+			<section id="id-449414958183">
+				<title>Skills/Objectives</title>
+				<para id="id13776498">Learners will be able to:</para>
+				<list list-type="enumerated" id="id14636192">
+					<item>Define copyright, fair use, the TEACH Act, and intellectual property. </item>
+				</list>
+				<para id="id14715692">Success Indicators</para>
+				<para id="id14588741">Determine the appropriateness of their own use learning materials for OER in terms of fair use. Creative Commons license selected for learner's OER. </para>
+				<para id="id14487398"/>
+			</section>
+		</section>
+		<section id="id-228258490389">
+			<title>Introduction</title>
+			<para id="id14386422">A basic understanding of copyright, fair use, the TEACH Act, and intellectual property is necessary before using and developing OER in order to minimize the risk of violating the law. You are encouraged to visit one or more of the many online tutorials exist which address these topics. </para>
+			<para id="id14596176"><title>Copyright</title></para><list list-type="bulleted" id="id12522785">
+				<item>
+					<link url="http://www.copyright.iupui.edu/dist_learning.htm">Copyright and Distance Education</link>
+				</item>
+				<item><link url="http://www-apps.umuc.edu/primer/">© Primer</link>, University of Maryland </item>
+				<item><link url="http://www-apps.umuc.edu/dcprimer/enter.php">Digital©Primer</link> focuses specifically on issues relating to copyright in digital works and the problems encountered by educational institutions in their use of digital materials for teaching, research and service </item>
+				<item><link url="http://marconi.umuc.edu/ramgen/cip/educause_dr_no/case_of_no.rm">The Case of Dr. No</link> is a video clip that addresses the challenges faced by faculty when distributing copyrighted material from various sources. </item>
+				<item><link url="http://www.lib.utsystem.edu/copyright">The Copyright Crash Course</link> from the University of Texas at Austin </item>
+				<item>
+					<link url="http://www.copyright.cornell.edu/training/Hirtle_Public_Domain.htm">Copyright Term and the Public Domain in the United States</link>
+				</item>
+				<item>
+					<link url="http://www.copyright.iupui.edu/">Copyright Management Center at IUPUI</link>
+				</item>
+				<item>
+					<link url="http://scholar.lib.vt.edu/copyright/">VA Tech Copyright Info</link>
+				</item>
+				<item>
+					<link url="http://www.lib.ncsu.edu/scc/tutorial/copyuse/index.html">Copyright Tutorial</link>
+				</item>
+			</list>
+			<para id="id14020750"><title>Fair Use</title></para><para id="id12141121">The fair use doctrine, as codified in §17 U.S.C. 107, sets forth four general factors to be considered when evaluating whether a proposed use of a copyrighted work is a fair use and thus, does not require permission from the copyright holder. </para>
+			<para id="id14401523">The four factors are:</para>
+			<list list-type="enumerated" id="id14551576">
+				<item>What is the purpose of the proposed use? </item>
+				<item>What is the nature of the copyright work to be used? </item>
+				<item>How much of the copyrighted work will be used? </item>
+				<item>What is the effect on the market or potential market for the copyrighted work? </item>
+			</list>
+			<list list-type="bulleted" id="id14878752">
+				<item>
+					<link url="http://www.copyright.iupui.edu/fairuse.htm">Fair Use</link>
+				</item>
+				<item>
+					<link url="http://www.copyright.iupui.edu/fuscenarios.htm">Common Scenarios of Fair Use Issues: Posting Materials on Course Management Systems</link>
+				</item>
+				<item>
+					<link url="http://memory.loc.gov/learn/start/cpyrt/">Library of Congress Questions and Answers: Copyright and Fair Use</link>
+				</item>
+				<item>
+					<link url="http://fairuse.stanford.edu/">Copyright &amp; Fair Use at Stanford</link>
+				</item>
+				<item>
+					<link url="http://www.utsystem.edu/ogc/intellectualproperty/copypol2.htm#distance">Rules of Thumb for Displaying and Performing Others’ Works in Distance Learning</link>
+				</item>
+				<item>
+					<link url="http://home.earthlink.net/~cnew/research.htm">A Teacher's Guide to Fair Use and Copyright</link>
+				</item>
+				<item>
+					<link url="http://www.umuc.edu/library/copy.html">Copyright and Fair Use in the Classroom, on the Internet, and the World Wide Web</link>
+				</item>
+				<item>
+					<link url="http://www-sul.stanford.edu/cpyright.html">Stanford Copyright Law and Fair Use</link>
+				</item>
+			</list>
+			<para id="id14880790"><title>TEACH Act</title></para><para id="id13063057">The TEACH Act is updates copyright law for digital online education as a compromise effort to address the copyright restriction disparities between digital classroom and the traditional classroom in terms of performances and displays. <link url="http://www.lib.ncsu.edu/scc/legislative/teachkit/">TEACH Toolkit</link> provides checklists and a “best practices” as well as basic information. Under the Teach Act, faculty can use copyrighted material in their online courses without seeking the author's permission under the following circumstances:</para>
+			<list list-type="bulleted" id="id12914929">
+				<item>The college must be accredited and nonprofit. </item>
+				<item>The college must have an internal policy on use of copyrighted material and on copyright law. </item>
+				<item>The college must provide printed or online resources for faculty members that describe their rights and responsibilities under copyright law. </item>
+				<item>The material must not have been originally intended for educational use. </item>
+				<item>The material must have been lawfully acquired </item>
+				<item>The material must be an integral part of the class session. </item>
+				<item>Reasonable precautions must be made to restrict access to the copyrighted content to students enrolled in the course. </item>
+				<item>Other reasonable controls must be used to prevent students from disseminating the material after viewing it. </item>
+				<item>If a digital version of the material is readily available for use at the institution, then the instructor cannot convert an analog version to digital form for use in an online course. </item>
+				<item>The college must inform students that the material may be protected by copyright law. </item>
+			</list>
+			<para id="id13338716"><title>Intellectual Property</title></para><para id="id14301758">Watch the <link url="http://search.creativecommons.org/">video introduction</link> to <link url="http://creativecommons.org/">Creative Commons (CC)</link>. CC is a nonprofit organization that provides authors with(free tools to manage their intellectual property. A CC license allows others to reproduce a licensed work when they give credit to the license holder. The CC website has a tool that generates <link url="http://creativecommons.org/">licenses</link> (in HTML format) based on chosen criteria.  Educause provides good summary of <link url="http://www.educause.edu/ir/library/pdf/ELI7023.pdf">7 Things Series You Should Know About Creative Commons</link></para>
+			<para id="id15193955"> </para>
+		</section>
+		<section id="id-548608801043">
+			<title>Activity</title>
+			<para id="id11019068"><emphasis>Experience</emphasis></para><list list-type="enumerated" id="id14770260">
+				<item>Watch <link url="http://marconi.umuc.edu/ramgen/cip/educause_dr_no/no_returns.rm">Dr. No Returns!</link> is a video clip in which an instructor would like to use the TEACH Act to provide music from various sources to a "History of Music" course through a password protected web site.</item>
+				<item>Use <link url="http://www.copyright.iupui.edu/teachlist.htm">Checklist for the TEACH Act</link> to determine whether or not your planned use of learning materials are suitable as OER is in compliance with the TEACH Act.</item>
+				<item>Use one of the <link url="http://www.edusource.ca/craw/PD_Wizard.html">EduSource Canada Public Domain Wizard</link> to determine if the learning materials you plan to use are in the public domain.</item>
+				<item>Use <link url="http://www.copyright.iupui.edu/checklist.htm">Checklist for Fair Use</link> to determine whether or not your planned use of learning materials are suitable as OER in terms of fair use.</item>
+			</list>
+			<para id="id14546832"><emphasis>Reflect</emphasis></para><list list-type="enumerated" id="id14588819">
+				<item>Once you have <link url="http://www.oercommons.org/join_form">joined OER Commons</link>, make your own posting to the <link url="http://www.oercommons.org/matters/oer-matters-discussions">OER Matters Discussions</link> area. Click on OER Matters Intellectual Property Forum to answer the following question: </item>
+			</list>
+			<para id="id12384807">"At the core of OER use and re-use are legal issues surrounding the sharing, use, and re-use of OER as a way to sustain and grow the OER movement. How does the shift from proprietary to participatory impact OER?"</para>
+			<para id="id12938040"><emphasis>Apply</emphasis></para><list list-type="enumerated" id="id13866202">
+				<item><link url="http://wikieducator.org/Open_Educational_Content/olcos/CHOOSE_a_license">Choose an OER License</link> for learning materials you might develop and share.</item>
+				<item>Read about how <link url="http://cnx.org/help/ipfaq">intellectual property and fair use</link> impact decisions to publish scholarly works at <link url="http://cnx.org/">Connexions</link>. Decide if you want to <link document="m14346">contribute</link> to Connexions. </item>
+			</list>
+			<section id="id-37880482725">
+				<title>Review Questions</title>
+				<list list-type="enumerated" id="id14143042"><item>What is fair use? </item>
+					<item>What is the TEACH Act? </item>
+					<item>How do fair use and the TEACH Act apply to the use of OER in your teaching? </item>
+				</list></section>
+			<section id="id-35798017322">
+				<title>Resources</title>
+				<list list-type="bulleted" id="id14439963">
+					<item>
+						<link url="http://www.lib.utsystem.edu/copyright">The Copyright Crash Course” from the University of Texas at Austin</link>
+					</item>
+					<item>
+						<link url="http://www.copyright.iupui.edu/teach_summary.htm">New Copyright Law for Distance Education: The Meaning and Importance of the TEACH Act</link>
+					</item>
+					<item>
+						<link url="http://www.educause.edu/ir/library/pdf/ERM01610.pdf">Balancing copyright concerns: The TEACH Act of 2001</link>
+					</item>
+				</list>
+			</section>
+		</section>
+	</content>
+</document>
